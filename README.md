@@ -6,4 +6,4 @@ In a touch of inspiration the gibberish MAY be changed into more sensible "lyric
 
 The easiest way to try the code for yourself is by using the [online compiler](https://codewithrockstar.com/online). This however requires you to feed in all of the input at once (which in a way defeats the purpose of the program).
 
-If you are interested in playing a real game of TicTacToe, preferably use [satriani](https://github.com/RockstarLang/rockstar/tree/main/satriani), the official intepreter.
+If you are interested in playing a real game of TicTacToe, preferably use [satriani](https://github.com/RockstarLang/rockstar/tree/main/satriani), the official interpreter.
